@@ -54,7 +54,7 @@ h1 {
   position: absolute;
 width: 593px;
 height: 24px;
-left: calc(50% - 593px/2 - 173.5px);
+left: 30px;
 top: 99px;
 
 font-family: 'Golos';
